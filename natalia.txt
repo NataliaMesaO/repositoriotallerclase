@@ -1,1 +1,2 @@
 archivo natalia
+este es el archivo que va a formar conflicto
